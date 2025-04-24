@@ -1,9 +1,9 @@
 export const universityInfo = {
-  name: "University College",
+  name: "University Website",
   shortName: "UC",
   tagline: "Empowering Minds, Shaping Futures",
   description:
-    "University College is a premier institution dedicated to academic excellence, innovation, and holistic development. With a rich history spanning over 50 years, we have established ourselves as leaders in higher education.",
+    "University is a premier institution dedicated to academic excellence, innovation, and holistic development. With a rich history spanning over 50 years, we have established ourselves as leaders in higher education.",
   founded: "1970",
   location: "123 University Avenue, Academic City, AC 12345",
   phone: "(123) 456-7890",
